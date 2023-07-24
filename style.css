@@ -11,7 +11,7 @@
     margin: 0 auto;
 }
 
-.wrapper{     
+.couruselWrapper{    
     margin: 0 auto;
     width: 1000px;
     overflow: hidden;
@@ -23,7 +23,7 @@
     text-align: center;
     display: flex;    
     margin: 25px auto;    
-    transition: 400ms ease-in-out;    
+    transition: 500ms ease-in-out;    
 }
 
 .btn{
